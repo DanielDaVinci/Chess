@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40bf970e10c595c4f8079d1203356288, type: 3}
   m_Name: BoardSaver
   m_EditorClassIdentifier: 
-  Rows: 8
-  Columns: 8
+  Rows: 0
+  Columns: 0
+  Fields: []

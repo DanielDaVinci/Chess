@@ -4,8 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - icon: {fileID: 21300000, guid: 31395e877d5f67243a117ec46f3429c3, type: 3}
-  - board: {instanceID: 0}
+  - whiteIcon: {fileID: 21300000, guid: 31395e877d5f67243a117ec46f3429c3, type: 3}
+  - blackIcon: {fileID: 21300000, guid: 65cf18fab0509fb4e95c566cb58a6cf9, type: 3}
   - field: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
